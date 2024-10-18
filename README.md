@@ -32,7 +32,7 @@ registration_date — date and time of the request submission.
 
 📦 Installation
 Clone the repository:
-git clone https://github.com/username/qazyna-telegram-bot.git
+git clone https://github.com/Tubanov/Qazyna_bot_telegram
 
 Install dependencies:
 pip install pyTelegramBotAPI
